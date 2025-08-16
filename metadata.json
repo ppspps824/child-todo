@@ -1,0 +1,5 @@
+{
+  "name": "Kid's Fun Todo List",
+  "description": "A fun and interactive daily to-do list for kids. It allows children to track their tasks, check them off when complete, and reorder them with drag-and-drop. Includes customizable names and preset tasks to get started quickly.",
+  "requestFramePermissions": []
+}
